@@ -28,3 +28,7 @@ Thank you for choosing NakamaStream for your ad-free anime adventures!
 --|---|---
 [staFF6773](https://github.com/staFF6773) | [Cristofer543](https://github.com/Cristofer543) | [SantiagolxxGG](https://github.com/SantiagolxxGG)
 Backend & Front Dev  | Backend | Front Dev
+
+## Sponsor
+
+![image](https://github.com/NakamaStream/Resources/blob/main/Sstudiosdev-removebg.png?raw=true)
