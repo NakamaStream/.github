@@ -31,4 +31,4 @@ Backend & Front Dev  | Backend | Front Dev
 
 ## Sponsor
 
-![image](https://github.com/NakamaStream/Resources/blob/main/Sstudiosdev-removebg.png?raw=true)
+![image](https://github.com/NakamaStream/Resources/blob/main/Sstudiosdev-removebg%20(1).png?raw=true)
