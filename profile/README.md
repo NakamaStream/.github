@@ -4,6 +4,8 @@
 
 NakamaStream es una plataforma de streaming de anime que ofrece una experiencia sin anuncios y completamente gratuita para todos los amantes del anime.
 
+![image](https://github.com/NakamaStream/Resources/blob/main/NakamaStream-traspa%20(1).png?raw=true)
+
 ## Características
 
 - Amplia biblioteca de anime con títulos populares y clásicos.
