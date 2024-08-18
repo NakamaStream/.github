@@ -20,7 +20,7 @@ NakamaStream es una plataforma de streaming de anime que ofrece una experiencia 
 
 ## Contacto
 
-Si necesitas ayuda o tienes alguna pregunta, no dudes en contactar a nuestro equipo de soporte en sstudiosdev@gmail.com.
+Si necesitas ayuda o tienes alguna pregunta, no dudes en contactar a nuestro equipo de soporte en nakamastreamhelp@gmail.com.
 
 ¡Gracias por elegir NakamaStream para tus aventuras de anime sin anuncios!
 
