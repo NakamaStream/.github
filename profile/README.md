@@ -27,7 +27,7 @@ Si necesitas ayuda o tienes alguna pregunta, no dudes en contactar a nuestro equ
 ## Nuestro equipo
 
 <img src="https://avatars.githubusercontent.com/u/108166164?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/152051773?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/149891004?v=4" width="100" height="100">
---|---|---|---
+--|---|---
 [staFF6773](https://github.com/staFF6773) | [Cristofer543](https://github.com/Cristofer543) | [SantiagolxxGG](https://github.com/SantiagolxxGG) |
 Backend & Front Dev  | Backend | Front Dev |
 
